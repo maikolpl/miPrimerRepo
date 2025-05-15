@@ -14,4 +14,6 @@ otra vez por aca
  ahora vamos hacerlo por la terminal
 
  cambios desde mi rama local llamada developer01
+
+ haciendo algunos cambios desde el vscode que proporsiona gitHub
  
